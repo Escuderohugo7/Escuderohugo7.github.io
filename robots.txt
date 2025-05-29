@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://Escuderohugo7.github.io/sitemap.xml
